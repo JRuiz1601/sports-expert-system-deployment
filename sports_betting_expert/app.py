@@ -361,6 +361,11 @@ def main():
         ### 👨‍💻 Desarrolladores
         
         Este sistema fue desarrollado como proyecto integrador para el curso de Algoritmos y Programación III.
+        
+        **Desarrolladores:**
+        - Juan Esteban Ruiz - A00399562
+        - Juan David Quintero - A00399438
+        - Tomas Quintero - A00399353
         """)
 
 if __name__ == "__main__":
