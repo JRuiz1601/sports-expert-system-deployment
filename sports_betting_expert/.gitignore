@@ -1,0 +1,58 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de IDEs/editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de ambiente
+.env
+.venv
+
+# Archivos de cache y logs
+*.log
+.cache
+.pytest_cache/
+coverage.xml
+*.cover
+
+# Archivos de datos que no queremos en el control de versiones
+data/raw/*
+data/processed/*
+
+# Pero mantener las carpetas con un .gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db

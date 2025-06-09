@@ -1,0 +1,1457 @@
+====================================================================================================
+    SISTEMA EXPERTO DE APUESTAS DEPORTIVAS - UEFA CHAMPIONS LEAGUE 2021/22
+    ESTADÍSTICAS COMPLETAS DE TODOS LOS EQUIPOS
+====================================================================================================
+Generado el: 05/06/2025 a las 22:41:16
+Total de equipos analizados: 32
+====================================================================================================
+
+====================================================================================================
+    EQUIPO #01: AJAX
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Strong (No Elite)
+   ├─ Fuerza General: 0.647/1.000 (64.7%)
+   ├─ Fuerza Ofensiva: 0.842/1.000 (84.2%)
+   ├─ Fuerza Defensiva: 0.453/1.000 (45.3%)
+   └─ Estilo de Juego: Offensive
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 2.62
+   ├─ Goles en contra por partido: 1.33
+   ├─ TOTAL goles por partido: 3.96
+   ├─ Diferencia de goles: +1.29 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 21
+   ├─ Penales convertidos: 1
+   ├─ Goles dentro del área: 20
+   ├─ Goles fuera del área: 1
+   ├─ Goles de cabeza: 3
+   └─ Eficiencia de finalización: 0.160 (16.0%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 2
+   ├─ Tasa de portería en cero: 25.00%
+   ├─ Paradas del portero: 15
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 15
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.700/1.000 (70.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 💪 EQUIPO FUERTE - Competitivo contra la mayoría
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #02: ATALANTA
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.531/1.000 (53.1%)
+   ├─ Fuerza Ofensiva: 0.718/1.000 (71.8%)
+   ├─ Fuerza Defensiva: 0.344/1.000 (34.4%)
+   └─ Estilo de Juego: Offensive
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 2.00
+   ├─ Goles en contra por partido: 2.17
+   ├─ TOTAL goles por partido: 4.17
+   ├─ Diferencia de goles: -0.17 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 12
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 10
+   ├─ Goles fuera del área: 2
+   ├─ Goles de cabeza: 1
+   └─ Eficiencia de finalización: 0.148 (14.8%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 1
+   ├─ Tasa de portería en cero: 16.67%
+   ├─ Paradas del portero: 21
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 9
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.820/1.000 (82.0%)
+   └─ Comportamiento: Limpio
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #03: ATLÉTICO
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.466/1.000 (46.6%)
+   ├─ Fuerza Ofensiva: 0.426/1.000 (42.6%)
+   ├─ Fuerza Defensiva: 0.506/1.000 (50.6%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.90
+   ├─ Goles en contra por partido: 1.00
+   ├─ TOTAL goles por partido: 1.90
+   ├─ Diferencia de goles: -0.10 por partido
+   └─ Tendencia Over/Under 2.5: UNDER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 9
+   ├─ Penales convertidos: 1
+   ├─ Goles dentro del área: 9
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 2
+   └─ Eficiencia de finalización: 0.094 (9.4%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 3
+   ├─ Tasa de portería en cero: 30.00%
+   ├─ Paradas del portero: 26
+   └─ Fortaleza defensiva: Media
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 25
+   ├─ Tarjetas rojas: 4
+   ├─ Rating disciplina: 0.100/1.000 (10.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 🔒 FUERTE tendencia a Under - Partidos cerrados
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #04: BARCELONA
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.367/1.000 (36.7%)
+   ├─ Fuerza Ofensiva: 0.276/1.000 (27.6%)
+   ├─ Fuerza Defensiva: 0.457/1.000 (45.7%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.40
+   ├─ Goles en contra por partido: 1.50
+   ├─ TOTAL goles por partido: 1.90
+   ├─ Diferencia de goles: -1.10 por partido
+   └─ Tendencia Over/Under 2.5: UNDER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 2
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 2
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 0
+   └─ Eficiencia de finalización: 0.033 (3.3%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 3
+   ├─ Tasa de portería en cero: 50.00%
+   ├─ Paradas del portero: 16
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 13
+   ├─ Tarjetas rojas: 1
+   ├─ Rating disciplina: 0.640/1.000 (64.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔒 FUERTE tendencia a Under - Partidos cerrados
+   └─ Estilo de Juego: 🛡️ Equipo DEFENSIVO - Juega al resultado mínimo
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #05: BAYERN
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Strong (No Elite)
+   ├─ Fuerza General: 0.739/1.000 (73.9%)
+   ├─ Fuerza Ofensiva: 0.900/1.000 (90.0%)
+   ├─ Fuerza Defensiva: 0.577/1.000 (57.7%)
+   └─ Estilo de Juego: Offensive
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 3.00
+   ├─ Goles en contra por partido: 0.78
+   ├─ TOTAL goles por partido: 3.78
+   ├─ Diferencia de goles: +2.22 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 30
+   ├─ Penales convertidos: 3
+   ├─ Goles dentro del área: 26
+   ├─ Goles fuera del área: 4
+   ├─ Goles de cabeza: 3
+   └─ Eficiencia de finalización: 0.156 (15.6%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 4
+   ├─ Tasa de portería en cero: 40.00%
+   ├─ Paradas del portero: 18
+   └─ Fortaleza defensiva: Media
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 12
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.760/1.000 (76.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 🌟 EQUIPO ELITE - Favorito en la mayoría de partidos
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #06: BENFICA
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.482/1.000 (48.2%)
+   ├─ Fuerza Ofensiva: 0.510/1.000 (51.0%)
+   ├─ Fuerza Defensiva: 0.453/1.000 (45.3%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.30
+   ├─ Goles en contra por partido: 1.70
+   ├─ TOTAL goles por partido: 3.00
+   ├─ Diferencia de goles: -0.40 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 13
+   ├─ Penales convertidos: 1
+   ├─ Goles dentro del área: 13
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 3
+   └─ Eficiencia de finalización: 0.143 (14.3%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 5
+   ├─ Tasa de portería en cero: 50.00%
+   ├─ Paradas del portero: 38
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 19
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.620/1.000 (62.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 📈 LEVE tendencia a Over - Considera Over 2.5
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #07: BEŞIKTAŞ
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.263/1.000 (26.3%)
+   ├─ Fuerza Ofensiva: 0.347/1.000 (34.7%)
+   ├─ Fuerza Defensiva: 0.178/1.000 (17.8%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.60
+   ├─ Goles en contra por partido: 3.80
+   ├─ TOTAL goles por partido: 4.40
+   ├─ Diferencia de goles: -3.20 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 3
+   ├─ Penales convertidos: 1
+   ├─ Goles dentro del área: 3
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 2
+   └─ Eficiencia de finalización: 0.061 (6.1%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 0
+   ├─ Tasa de portería en cero: 0.00%
+   ├─ Paradas del portero: 24
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 16
+   ├─ Tarjetas rojas: 2
+   ├─ Rating disciplina: 0.480/1.000 (48.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #08: CHELSEA
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Strong (No Elite)
+   ├─ Fuerza General: 0.654/1.000 (65.4%)
+   ├─ Fuerza Ofensiva: 0.787/1.000 (78.7%)
+   ├─ Fuerza Defensiva: 0.521/1.000 (52.1%)
+   └─ Estilo de Juego: Offensive
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 2.33
+   ├─ Goles en contra por partido: 1.11
+   ├─ TOTAL goles por partido: 3.44
+   ├─ Diferencia de goles: +1.22 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 21
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 21
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 4
+   └─ Eficiencia de finalización: 0.126 (12.6%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 5
+   ├─ Tasa de portería en cero: 50.00%
+   ├─ Paradas del portero: 13
+   └─ Fortaleza defensiva: Media
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 13
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.740/1.000 (74.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 💪 EQUIPO FUERTE - Competitivo contra la mayoría
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #09: CLUB BRUGGE
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.324/1.000 (32.4%)
+   ├─ Fuerza Ofensiva: 0.454/1.000 (45.4%)
+   ├─ Fuerza Defensiva: 0.194/1.000 (19.4%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.83
+   ├─ Goles en contra por partido: 3.33
+   ├─ TOTAL goles por partido: 4.17
+   ├─ Diferencia de goles: -2.50 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 5
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 5
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 0
+   └─ Eficiencia de finalización: 0.085 (8.5%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 0
+   ├─ Tasa de portería en cero: 0.00%
+   ├─ Paradas del portero: 28
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 9
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.820/1.000 (82.0%)
+   └─ Comportamiento: Limpio
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #10: DORTMUND
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.501/1.000 (50.1%)
+   ├─ Fuerza Ofensiva: 0.624/1.000 (62.4%)
+   ├─ Fuerza Defensiva: 0.378/1.000 (37.8%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.67
+   ├─ Goles en contra por partido: 1.83
+   ├─ TOTAL goles por partido: 3.50
+   ├─ Diferencia de goles: -0.17 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 10
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 10
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 2
+   └─ Eficiencia de finalización: 0.119 (11.9%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 2
+   ├─ Tasa de portería en cero: 33.33%
+   ├─ Paradas del portero: 14
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 8
+   ├─ Tarjetas rojas: 2
+   ├─ Rating disciplina: 0.640/1.000 (64.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #11: DYNAMO KYIV
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.300/1.000 (30.0%)
+   ├─ Fuerza Ofensiva: 0.264/1.000 (26.4%)
+   ├─ Fuerza Defensiva: 0.336/1.000 (33.6%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.17
+   ├─ Goles en contra por partido: 2.20
+   ├─ TOTAL goles por partido: 2.37
+   ├─ Diferencia de goles: -2.03 por partido
+   └─ Tendencia Over/Under 2.5: UNDER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 1
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 1
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 0
+   └─ Eficiencia de finalización: 0.021 (2.1%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 1
+   ├─ Tasa de portería en cero: 16.67%
+   ├─ Paradas del portero: 17
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 10
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.800/1.000 (80.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 📊 NEUTRAL en Over/Under - Analizar rival específico
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #12: INTER
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.509/1.000 (50.9%)
+   ├─ Fuerza Ofensiva: 0.499/1.000 (49.9%)
+   ├─ Fuerza Defensiva: 0.519/1.000 (51.9%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.12
+   ├─ Goles en contra por partido: 0.88
+   ├─ TOTAL goles por partido: 2.00
+   ├─ Diferencia de goles: +0.25 por partido
+   └─ Tendencia Over/Under 2.5: UNDER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 9
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 8
+   ├─ Goles fuera del área: 1
+   ├─ Goles de cabeza: 1
+   └─ Eficiencia de finalización: 0.068 (6.8%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 3
+   ├─ Tasa de portería en cero: 37.50%
+   ├─ Paradas del portero: 12
+   └─ Fortaleza defensiva: Media
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 12
+   ├─ Tarjetas rojas: 2
+   ├─ Rating disciplina: 0.560/1.000 (56.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 📊 NEUTRAL en Over/Under - Analizar rival específico
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #13: JUVENTUS
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.550/1.000 (55.0%)
+   ├─ Fuerza Ofensiva: 0.589/1.000 (58.9%)
+   ├─ Fuerza Defensiva: 0.512/1.000 (51.2%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.57
+   ├─ Goles en contra por partido: 1.43
+   ├─ TOTAL goles por partido: 3.00
+   ├─ Diferencia de goles: +0.14 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 11
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 11
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 3
+   └─ Eficiencia de finalización: 0.105 (10.5%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 4
+   ├─ Tasa de portería en cero: 50.00%
+   ├─ Paradas del portero: 16
+   └─ Fortaleza defensiva: Media
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 10
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.800/1.000 (80.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 💪 EQUIPO FUERTE - Competitivo contra la mayoría
+   ├─ Over/Under 2.5: 📈 LEVE tendencia a Over - Considera Over 2.5
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #14: LOSC
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.463/1.000 (46.3%)
+   ├─ Fuerza Ofensiva: 0.425/1.000 (42.5%)
+   ├─ Fuerza Defensiva: 0.501/1.000 (50.1%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.00
+   ├─ Goles en contra por partido: 1.33
+   ├─ TOTAL goles por partido: 2.33
+   ├─ Diferencia de goles: -0.33 por partido
+   └─ Tendencia Over/Under 2.5: UNDER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 8
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 7
+   ├─ Goles fuera del área: 1
+   ├─ Goles de cabeza: 0
+   └─ Eficiencia de finalización: 0.089 (8.9%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 3
+   ├─ Tasa de portería en cero: 37.50%
+   ├─ Paradas del portero: 17
+   └─ Fortaleza defensiva: Media
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 24
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.520/1.000 (52.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 📊 NEUTRAL en Over/Under - Analizar rival específico
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #15: LEIPZIG
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.488/1.000 (48.8%)
+   ├─ Fuerza Ofensiva: 0.755/1.000 (75.5%)
+   ├─ Fuerza Defensiva: 0.221/1.000 (22.1%)
+   └─ Estilo de Juego: Offensive
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 2.50
+   ├─ Goles en contra por partido: 2.80
+   ├─ TOTAL goles por partido: 5.30
+   ├─ Diferencia de goles: -0.30 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 15
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 14
+   ├─ Goles fuera del área: 1
+   ├─ Goles de cabeza: 4
+   └─ Eficiencia de finalización: 0.172 (17.2%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 1
+   ├─ Tasa de portería en cero: 16.67%
+   ├─ Paradas del portero: 14
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 13
+   ├─ Tarjetas rojas: 1
+   ├─ Rating disciplina: 0.640/1.000 (64.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #16: LIVERPOOL
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Strong (No Elite)
+   ├─ Fuerza General: 0.633/1.000 (63.3%)
+   ├─ Fuerza Ofensiva: 0.776/1.000 (77.6%)
+   ├─ Fuerza Defensiva: 0.489/1.000 (48.9%)
+   └─ Estilo de Juego: Offensive
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 2.31
+   ├─ Goles en contra por partido: 1.08
+   ├─ TOTAL goles por partido: 3.38
+   ├─ Diferencia de goles: +1.23 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 30
+   ├─ Penales convertidos: 1
+   ├─ Goles dentro del área: 25
+   ├─ Goles fuera del área: 5
+   ├─ Goles de cabeza: 6
+   └─ Eficiencia de finalización: 0.148 (14.8%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 4
+   ├─ Tasa de portería en cero: 30.77%
+   ├─ Paradas del portero: 15
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 15
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.700/1.000 (70.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 💪 EQUIPO FUERTE - Competitivo contra la mayoría
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #17: MALMÖ
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.220/1.000 (22.0%)
+   ├─ Fuerza Ofensiva: 0.268/1.000 (26.8%)
+   ├─ Fuerza Defensiva: 0.172/1.000 (17.2%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.33
+   ├─ Goles en contra por partido: 3.50
+   ├─ TOTAL goles por partido: 3.83
+   ├─ Diferencia de goles: -3.17 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 1
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 1
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 0
+   └─ Eficiencia de finalización: 0.029 (2.9%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 0
+   ├─ Tasa de portería en cero: 0.00%
+   ├─ Paradas del portero: 32
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 15
+   ├─ Tarjetas rojas: 1
+   ├─ Rating disciplina: 0.600/1.000 (60.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #18: MAN. CITY
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Strong (No Elite)
+   ├─ Fuerza General: 0.611/1.000 (61.1%)
+   ├─ Fuerza Ofensiva: 0.790/1.000 (79.0%)
+   ├─ Fuerza Defensiva: 0.433/1.000 (43.3%)
+   └─ Estilo de Juego: Offensive
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 2.33
+   ├─ Goles en contra por partido: 1.45
+   ├─ TOTAL goles por partido: 3.79
+   ├─ Diferencia de goles: +0.88 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 28
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 26
+   ├─ Goles fuera del área: 2
+   ├─ Goles de cabeza: 5
+   └─ Eficiencia de finalización: 0.145 (14.5%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 5
+   ├─ Tasa de portería en cero: 38.46%
+   ├─ Paradas del portero: 18
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 21
+   ├─ Tarjetas rojas: 1
+   ├─ Rating disciplina: 0.480/1.000 (48.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 💪 EQUIPO FUERTE - Competitivo contra la mayoría
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #19: MAN. UNITED
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.505/1.000 (50.5%)
+   ├─ Fuerza Ofensiva: 0.588/1.000 (58.8%)
+   ├─ Fuerza Defensiva: 0.421/1.000 (42.1%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.71
+   ├─ Goles en contra por partido: 1.43
+   ├─ TOTAL goles por partido: 3.14
+   ├─ Diferencia de goles: +0.29 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 12
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 9
+   ├─ Goles fuera del área: 3
+   ├─ Goles de cabeza: 1
+   └─ Eficiencia de finalización: 0.136 (13.6%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 1
+   ├─ Tasa de portería en cero: 12.50%
+   ├─ Paradas del portero: 22
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 17
+   ├─ Tarjetas rojas: 1
+   ├─ Rating disciplina: 0.560/1.000 (56.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #20: MILAN
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.370/1.000 (37.0%)
+   ├─ Fuerza Ofensiva: 0.495/1.000 (49.5%)
+   ├─ Fuerza Defensiva: 0.245/1.000 (24.5%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.00
+   ├─ Goles en contra por partido: 3.00
+   ├─ TOTAL goles por partido: 4.00
+   ├─ Diferencia de goles: -2.00 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 5
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 5
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 1
+   └─ Eficiencia de finalización: 0.104 (10.4%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 1
+   ├─ Tasa de portería en cero: 16.67%
+   ├─ Paradas del portero: 22
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 16
+   ├─ Tarjetas rojas: 1
+   ├─ Rating disciplina: 0.580/1.000 (58.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #21: PARIS
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.506/1.000 (50.6%)
+   ├─ Fuerza Ofensiva: 0.644/1.000 (64.4%)
+   ├─ Fuerza Defensiva: 0.369/1.000 (36.9%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.88
+   ├─ Goles en contra por partido: 2.20
+   ├─ TOTAL goles por partido: 4.08
+   ├─ Diferencia de goles: -0.33 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 15
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 13
+   ├─ Goles fuera del área: 2
+   ├─ Goles de cabeza: 1
+   └─ Eficiencia de finalización: 0.163 (16.3%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 2
+   ├─ Tasa de portería en cero: 25.00%
+   ├─ Paradas del portero: 29
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 19
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.620/1.000 (62.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #22: PORTO
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.335/1.000 (33.5%)
+   ├─ Fuerza Ofensiva: 0.289/1.000 (28.9%)
+   ├─ Fuerza Defensiva: 0.380/1.000 (38.0%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.33
+   ├─ Goles en contra por partido: 1.83
+   ├─ TOTAL goles por partido: 2.17
+   ├─ Diferencia de goles: -1.50 por partido
+   └─ Tendencia Over/Under 2.5: UNDER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 2
+   ├─ Penales convertidos: 1
+   ├─ Goles dentro del área: 2
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 1
+   └─ Eficiencia de finalización: 0.024 (2.4%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 2
+   ├─ Tasa de portería en cero: 33.33%
+   ├─ Paradas del portero: 18
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 17
+   ├─ Tarjetas rojas: 2
+   ├─ Rating disciplina: 0.460/1.000 (46.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 📊 NEUTRAL en Over/Under - Analizar rival específico
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #23: REAL MADRID
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Strong (No Elite)
+   ├─ Fuerza General: 0.629/1.000 (62.9%)
+   ├─ Fuerza Ofensiva: 0.737/1.000 (73.7%)
+   ├─ Fuerza Defensiva: 0.522/1.000 (52.2%)
+   └─ Estilo de Juego: Offensive
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 2.15
+   ├─ Goles en contra por partido: 1.08
+   ├─ TOTAL goles por partido: 3.23
+   ├─ Diferencia de goles: +1.08 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 28
+   ├─ Penales convertidos: 3
+   ├─ Goles dentro del área: 22
+   ├─ Goles fuera del área: 6
+   ├─ Goles de cabeza: 4
+   └─ Eficiencia de finalización: 0.156 (15.6%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 5
+   ├─ Tasa de portería en cero: 38.46%
+   ├─ Paradas del portero: 61
+   └─ Fortaleza defensiva: Media
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 25
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.500/1.000 (50.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 💪 EQUIPO FUERTE - Competitivo contra la mayoría
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #24: SALZBURG
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.433/1.000 (43.3%)
+   ├─ Fuerza Ofensiva: 0.520/1.000 (52.0%)
+   ├─ Fuerza Defensiva: 0.345/1.000 (34.5%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.25
+   ├─ Goles en contra por partido: 1.75
+   ├─ TOTAL goles por partido: 3.00
+   ├─ Diferencia de goles: -0.50 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 10
+   ├─ Penales convertidos: 3
+   ├─ Goles dentro del área: 9
+   ├─ Goles fuera del área: 1
+   ├─ Goles de cabeza: 0
+   └─ Eficiencia de finalización: 0.112 (11.2%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 1
+   ├─ Tasa de portería en cero: 12.50%
+   ├─ Paradas del portero: 16
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 15
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.700/1.000 (70.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 📈 LEVE tendencia a Over - Considera Over 2.5
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #25: SEVILLA
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.468/1.000 (46.8%)
+   ├─ Fuerza Ofensiva: 0.412/1.000 (41.2%)
+   ├─ Fuerza Defensiva: 0.525/1.000 (52.5%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.83
+   ├─ Goles en contra por partido: 0.83
+   ├─ TOTAL goles por partido: 1.67
+   ├─ Diferencia de goles: +0.00 por partido
+   └─ Tendencia Over/Under 2.5: UNDER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 5
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 5
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 1
+   └─ Eficiencia de finalización: 0.070 (7.0%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 2
+   ├─ Tasa de portería en cero: 33.33%
+   ├─ Paradas del portero: 14
+   └─ Fortaleza defensiva: Media
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 20
+   ├─ Tarjetas rojas: 2
+   ├─ Rating disciplina: 0.400/1.000 (40.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 🔒 FUERTE tendencia a Under - Partidos cerrados
+   └─ Estilo de Juego: 🛡️ Equipo DEFENSIVO - Juega al resultado mínimo
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #26: SHAKHTAR DONETSK
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.327/1.000 (32.7%)
+   ├─ Fuerza Ofensiva: 0.341/1.000 (34.1%)
+   ├─ Fuerza Defensiva: 0.312/1.000 (31.2%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.40
+   ├─ Goles en contra por partido: 4.00
+   ├─ TOTAL goles por partido: 4.40
+   ├─ Diferencia de goles: -3.60 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 2
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 2
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 0
+   └─ Eficiencia de finalización: 0.025 (2.5%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 2
+   ├─ Tasa de portería en cero: 28.57%
+   ├─ Paradas del portero: 24
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 5
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.900/1.000 (90.0%)
+   └─ Comportamiento: Limpio
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #27: SHERIFF
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.400/1.000 (40.0%)
+   ├─ Fuerza Ofensiva: 0.462/1.000 (46.2%)
+   ├─ Fuerza Defensiva: 0.337/1.000 (33.7%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.17
+   ├─ Goles en contra por partido: 2.20
+   ├─ TOTAL goles por partido: 3.37
+   ├─ Diferencia de goles: -1.03 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 7
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 5
+   ├─ Goles fuera del área: 2
+   ├─ Goles de cabeza: 3
+   └─ Eficiencia de finalización: 0.130 (13.0%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 1
+   ├─ Tasa de portería en cero: 16.67%
+   ├─ Paradas del portero: 35
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 13
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.740/1.000 (74.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #28: SPORTING CP
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.439/1.000 (43.9%)
+   ├─ Fuerza Ofensiva: 0.585/1.000 (58.5%)
+   ├─ Fuerza Defensiva: 0.293/1.000 (29.3%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.75
+   ├─ Goles en contra por partido: 2.43
+   ├─ TOTAL goles por partido: 4.18
+   ├─ Diferencia de goles: -0.68 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 14
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 11
+   ├─ Goles fuera del área: 3
+   ├─ Goles de cabeza: 2
+   └─ Eficiencia de finalización: 0.177 (17.7%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 2
+   ├─ Tasa de portería en cero: 25.00%
+   ├─ Paradas del portero: 20
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 17
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.660/1.000 (66.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #29: VILLARREAL
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Average (No Elite)
+   ├─ Fuerza General: 0.516/1.000 (51.6%)
+   ├─ Fuerza Ofensiva: 0.591/1.000 (59.1%)
+   ├─ Fuerza Defensiva: 0.442/1.000 (44.2%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.67
+   ├─ Goles en contra por partido: 1.33
+   ├─ TOTAL goles por partido: 3.00
+   ├─ Diferencia de goles: +0.33 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 20
+   ├─ Penales convertidos: 2
+   ├─ Goles dentro del área: 20
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 3
+   └─ Eficiencia de finalización: 0.174 (17.4%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 3
+   ├─ Tasa de portería en cero: 25.00%
+   ├─ Paradas del portero: 41
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 24
+   ├─ Tarjetas rojas: 2
+   ├─ Rating disciplina: 0.320/1.000 (32.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: 📊 EQUIPO PROMEDIO - Depende mucho del rival
+   ├─ Over/Under 2.5: 📈 LEVE tendencia a Over - Considera Over 2.5
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #30: WOLFSBURG
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.354/1.000 (35.4%)
+   ├─ Fuerza Ofensiva: 0.349/1.000 (34.9%)
+   ├─ Fuerza Defensiva: 0.360/1.000 (36.0%)
+   └─ Estilo de Juego: Balanced
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 0.83
+   ├─ Goles en contra por partido: 2.00
+   ├─ TOTAL goles por partido: 2.83
+   ├─ Diferencia de goles: -1.17 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 5
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 5
+   ├─ Goles fuera del área: 0
+   ├─ Goles de cabeza: 1
+   └─ Eficiencia de finalización: 0.114 (11.4%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 1
+   ├─ Tasa de portería en cero: 16.67%
+   ├─ Paradas del portero: 23
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 25
+   ├─ Tarjetas rojas: 2
+   ├─ Rating disciplina: 0.300/1.000 (30.0%)
+   └─ Comportamiento: Agresivo
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 📈 LEVE tendencia a Over - Considera Over 2.5
+   └─ Estilo de Juego: ⚖️ Equipo EQUILIBRADO - Adaptable según rival
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #31: YOUNG BOYS
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.352/1.000 (35.2%)
+   ├─ Fuerza Ofensiva: 0.519/1.000 (51.9%)
+   ├─ Fuerza Defensiva: 0.184/1.000 (18.4%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.17
+   ├─ Goles en contra por partido: 4.00
+   ├─ TOTAL goles por partido: 5.17
+   ├─ Diferencia de goles: -2.83 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 7
+   ├─ Penales convertidos: 0
+   ├─ Goles dentro del área: 5
+   ├─ Goles fuera del área: 2
+   ├─ Goles de cabeza: 1
+   └─ Eficiencia de finalización: 0.085 (8.5%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 0
+   ├─ Tasa de portería en cero: 0.00%
+   ├─ Paradas del portero: 21
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 11
+   ├─ Tarjetas rojas: 0
+   ├─ Rating disciplina: 0.780/1.000 (78.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+====================================================================================================
+    EQUIPO #32: ZENIT
+====================================================================================================
+
+🏆 RESUMEN EJECUTIVO:
+   ┌─ Nivel del Equipo: Weak (No Elite)
+   ├─ Fuerza General: 0.442/1.000 (44.2%)
+   ├─ Fuerza Ofensiva: 0.568/1.000 (56.8%)
+   ├─ Fuerza Defensiva: 0.315/1.000 (31.5%)
+   └─ Estilo de Juego: Mixed
+
+⚽ MÉTRICAS DE GOLES (Over/Under):
+   ┌─ Goles a favor por partido: 1.50
+   ├─ Goles en contra por partido: 2.50
+   ├─ TOTAL goles por partido: 4.00
+   ├─ Diferencia de goles: -1.00 por partido
+   └─ Tendencia Over/Under 2.5: OVER
+
+🎯 ANÁLISIS OFENSIVO:
+   ┌─ Goles totales: 9
+   ├─ Penales convertidos: 1
+   ├─ Goles dentro del área: 7
+   ├─ Goles fuera del área: 2
+   ├─ Goles de cabeza: 2
+   └─ Eficiencia de finalización: 0.113 (11.2%)
+
+🛡️ ANÁLISIS DEFENSIVO:
+   ┌─ Porterías en cero: 1
+   ├─ Tasa de portería en cero: 16.67%
+   ├─ Paradas del portero: 17
+   └─ Fortaleza defensiva: Baja
+
+🟨 DISCIPLINA:
+   ┌─ Tarjetas amarillas: 9
+   ├─ Tarjetas rojas: 1
+   ├─ Rating disciplina: 0.720/1.000 (72.0%)
+   └─ Comportamiento: Normal
+
+🎰 RECOMENDACIONES DE APUESTA:
+   ┌─ Evaluación General: ⚠️ EQUIPO DÉBIL - Pocas probabilidades contra rivales fuertes
+   ├─ Over/Under 2.5: 🔥 ALTA tendencia a Over - Partidos con muchos goles
+   └─ Estilo de Juego: ⚔️ Equipo OFENSIVO - Busca victoria por goles
+
+--------------------------------------------------------------------------------
+
+
+====================================================================================================
+                            RESUMEN FINAL
+====================================================================================================
+✅ Análisis completado exitosamente
+📊 32 equipos procesados
+📁 Archivo generado: estadisticas_completas_equipos_20250605_224116.txt
+🏆 Sistema Experto de Apuestas Deportivas v0.2
+====================================================================================================
