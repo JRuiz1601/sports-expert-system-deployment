@@ -251,15 +251,26 @@ def main():
     st.markdown('<h1 class="main-header">Sistema Experto de Apuestas Deportivas</h1>', unsafe_allow_html=True)
     st.markdown('<h2 class="sub-header">UEFA Champions League 2021/22</h2>', unsafe_allow_html=True)
     
-    # Menú principal
+    # Inicializar menu_selection si no existe
+    if "menu_selection" not in st.session_state:
+        st.session_state.menu_selection = "Inicio"
+    
+    # Menú principal - usa y actualiza st.session_state.menu_selection
     menu_options = ["Inicio", "Análisis de Partidos", "Estadísticas de Equipos", "Acerca del Sistema"]
-    selected_menu = st.sidebar.selectbox("Menú", menu_options)
+    selected_menu = st.sidebar.selectbox(
+        "Menú",
+        menu_options,
+        index=menu_options.index(st.session_state.menu_selection)
+    )
+    
+    # Actualizar la selección del menú en la sesión cuando cambia desde el sidebar
+    st.session_state.menu_selection = selected_menu
     
     # Lista de equipos disponibles
     available_teams = betting_app.available_teams
     
     # Página de inicio
-    if selected_menu == "Inicio":
+    if st.session_state.menu_selection == "Inicio":
         st.markdown("""
         ## 👋 ¡Bienvenido al Sistema Experto de Apuestas Deportivas!
         
@@ -284,14 +295,14 @@ def main():
         with col1:
             if st.button("🔍 Ir a Análisis de Partidos"):
                 st.session_state.menu_selection = "Análisis de Partidos"
-                st.stop()
+                st.rerun()  # Versión moderna de st.experimental_rerun()
         with col2:
             if st.button("📊 Ver Estadísticas de Equipos"):
                 st.session_state.menu_selection = "Estadísticas de Equipos"
-                st.stop()
+                st.rerun()  # Versión moderna de st.experimental_rerun()
     
     # Análisis de partidos
-    elif selected_menu == "Análisis de Partidos":
+    elif st.session_state.menu_selection == "Análisis de Partidos":
         st.markdown("## 🔍 Análisis de Partidos")
         st.markdown("Selecciona dos equipos para analizar su enfrentamiento y recibir recomendaciones de apuestas.")
         
@@ -309,7 +320,7 @@ def main():
             show_match_analysis(home_team, away_team)
     
     # Estadísticas de equipos
-    elif selected_menu == "Estadísticas de Equipos":
+    elif st.session_state.menu_selection == "Estadísticas de Equipos":
         st.markdown("## 📊 Estadísticas de Equipos")
         st.markdown("Selecciona un equipo para ver sus estadísticas detalladas.")
         
@@ -321,7 +332,7 @@ def main():
             show_team_stats(team)
     
     # Acerca del sistema
-    elif selected_menu == "Acerca del Sistema":
+    elif st.session_state.menu_selection == "Acerca del Sistema":
         st.markdown("## ℹ️ Acerca del Sistema Experto")
         st.markdown("""
         ### 🧠 Arquitectura del Sistema
@@ -353,10 +364,4 @@ def main():
         """)
 
 if __name__ == "__main__":
-    # Establecer el valor del menú desde la sesión si existe
-    if 'menu_selection' in st.session_state:
-        selected_menu = st.session_state.menu_selection
-        # Limpiar para futuros usos
-        del st.session_state.menu_selection
-    
     main()
