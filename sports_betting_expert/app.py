@@ -284,11 +284,11 @@ def main():
         with col1:
             if st.button("🔍 Ir a Análisis de Partidos"):
                 st.session_state.menu_selection = "Análisis de Partidos"
-                st.experimental_rerun()
+                st.rerun()
         with col2:
             if st.button("📊 Ver Estadísticas de Equipos"):
                 st.session_state.menu_selection = "Estadísticas de Equipos"
-                st.experimental_rerun()
+                st.rerun()
     
     # Análisis de partidos
     elif selected_menu == "Análisis de Partidos":
