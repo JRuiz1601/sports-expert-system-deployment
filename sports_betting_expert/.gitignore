@@ -56,3 +56,7 @@ data/processed/*
 # Archivos de sistema operativo
 .DS_Store
 Thumbs.db
+
+# Permitir CSV en data/raw
+!data/raw/
+!data/raw/*.csv
