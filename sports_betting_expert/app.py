@@ -49,6 +49,12 @@ st.markdown("""
         background-color: rgba(244, 67, 54, 0.1);
         border-left: 5px solid #F44336;
     }
+    .rules-fired {
+        font-size: 0.9rem;
+        font-style: italic;
+        margin-top: 10px;
+        color: #555;
+    }
     </style>
     """, unsafe_allow_html=True)
 
@@ -59,6 +65,97 @@ def load_betting_app():
     app = BettingExpertApp()
     initialized = app.initialize_system()
     return app if initialized else None
+
+# Función para generar explicación detallada
+def generate_detailed_explanation(bet_type, recommendation, home_team, away_team, 
+                               home_fact, away_fact, analysis_result):
+    """
+    Genera explicaciones detalladas para cada tipo de apuesta basadas en estadísticas.
+    
+    Args:
+        bet_type: Tipo de apuesta (home_win, away_win, draw, over, under)
+        recommendation: Datos de la recomendación
+        home_team, away_team: Nombres de los equipos
+        home_fact, away_fact: Datos de los equipos
+        analysis_result: Resultado completo del análisis
+        
+    Returns:
+        Explicación detallada
+    """
+    if bet_type == 'home_win':
+        # Explicación para victoria local
+        if home_fact['overall_strength'] > away_fact['overall_strength']:
+            strength_diff = (home_fact['overall_strength'] - away_fact['overall_strength']) * 100
+            return (f"{home_team} tiene un {strength_diff:.1f}% de ventaja sobre {away_team}. "
+                   f"Su ataque ({home_fact['attacking_strength']:.2f}) supera a la defensa visitante "
+                   f"({away_fact['defensive_strength']:.2f}). Además, {home_team} marca un promedio de "
+                   f"{home_fact['goals_per_match']:.2f} goles por partido, lo que le da ventaja como local.")
+        else:
+            return (f"A pesar de que {away_team} tiene mejores estadísticas generales, "
+                   f"{home_team} tiene ventaja de jugar como local y un promedio de "
+                   f"{home_fact['goals_per_match']:.2f} goles anotados por partido.")
+    
+    elif bet_type == 'away_win':
+        # Explicación para victoria visitante
+        if away_fact['overall_strength'] > home_fact['overall_strength']:
+            strength_diff = (away_fact['overall_strength'] - home_fact['overall_strength']) * 100
+            return (f"{away_team} es superior por {strength_diff:.1f}% y su ataque ({away_fact['attacking_strength']:.2f}) "
+                   f"puede superar la defensa local ({home_fact['defensive_strength']:.2f}). {away_team} anota "
+                   f"{away_fact['goals_per_match']:.2f} goles por partido, lo que compensa la desventaja de jugar como visitante.")
+        else:
+            return (f"Aunque {home_team} tiene mejores estadísticas generales, {away_team} "
+                   f"tiene un buen rendimiento como visitante y aprovechará las debilidades defensivas "
+                   f"del local que recibe {home_fact['goals_conceded_per_match']:.2f} goles por partido.")
+    
+    elif bet_type == 'draw':
+        # Explicación para empate
+        strength_diff = abs(home_fact['overall_strength'] - away_fact['overall_strength']) * 100
+        if strength_diff < 10:
+            return (f"Los equipos están muy igualados (diferencia de solo {strength_diff:.1f}%). "
+                   f"Ambos tienen fortalezas y debilidades similares, con ataques de "
+                   f"{home_fact['attacking_strength']:.2f} vs {away_fact['attacking_strength']:.2f} y defensas de "
+                   f"{home_fact['defensive_strength']:.2f} vs {away_fact['defensive_strength']:.2f}.")
+        else:
+            return (f"A pesar de la diferencia de {strength_diff:.1f}% entre los equipos, "
+                   f"factores como el estilo de juego de {away_team} ({away_fact['team_style']}) "
+                   f"pueden neutralizar las ventajas de {home_team}, llevando a un equilibrio de fuerzas.")
+    
+    elif bet_type == 'over':
+        # Explicación para más de 2.5 goles
+        combined_goals = home_fact['goals_per_match'] + away_fact['goals_per_match']
+        combined_conceded = home_fact['goals_conceded_per_match'] + away_fact['goals_conceded_per_match']
+        
+        return (f"El promedio combinado de goles es {combined_goals:.2f} por partido. "
+               f"{home_team} marca {home_fact['goals_per_match']:.2f} y {away_team} {away_fact['goals_per_match']:.2f} goles/partido. "
+               f"Además, ambos equipos conceden un total de {combined_conceded:.2f} goles por partido. "
+               f"El estilo de juego {_get_style_description(home_fact['team_style'])} de {home_team} y "
+               f"{_get_style_description(away_fact['team_style'])} de {away_team} favorece un partido con varios goles.")
+    
+    elif bet_type == 'under':
+        # Explicación para menos de 2.5 goles
+        defensive_strength = (home_fact['defensive_strength'] + away_fact['defensive_strength']) / 2
+        
+        return (f"La fuerza defensiva promedio es alta ({defensive_strength:.2f}). "
+               f"{home_team} recibe solo {home_fact['goals_conceded_per_match']:.2f} goles por partido, y "
+               f"{away_team} {away_fact['goals_conceded_per_match']:.2f}. "
+               f"El estilo de juego de los equipos y su solidez defensiva favorecen un partido de pocos goles, "
+               f"probablemente por debajo de 2.5 goles en total.")
+    
+    # Si no es ninguno de los tipos anteriores
+    return recommendation.get('explanation', "Basado en análisis estadístico de los datos históricos de ambos equipos.")
+
+def _get_style_description(style):
+    """Obtiene una descripción más detallada del estilo de juego."""
+    style_desc = {
+        'balanced': "equilibrado",
+        'attacking': "ofensivo",
+        'offensive': "muy ofensivo",
+        'defensive': "defensivo",
+        'possessive': "de posesión",
+        'counter': "de contraataque",
+        'mixed': "mixto/adaptable"
+    }
+    return style_desc.get(style, style)
 
 # Función para mostrar análisis de partido
 def show_match_analysis(home_team, away_team):
@@ -97,6 +194,20 @@ def show_match_analysis(home_team, away_team):
             st.markdown(f"**Defensa:** {away_fact['defensive_strength']:.2f}")
             st.markdown(f"**Estilo:** {away_fact['team_style']}")
         
+        # Comparación de equipos
+        st.markdown("### ⚖️ Comparación")
+        # Calcular diferencia de fuerzas
+        home_strength = home_fact['overall_strength']
+        away_strength = away_fact['overall_strength']
+        strength_diff = abs(home_strength - away_strength) * 100
+        stronger_team = home_team if home_strength > away_strength else away_team
+        
+        st.markdown(f"**{stronger_team}** es superior por un **{strength_diff:.1f}%** en términos generales.")
+        
+        # Tendencia de goles
+        combined_goals = home_fact['goals_per_match'] + away_fact['goals_per_match']
+        st.markdown(f"**Promedio combinado:** {combined_goals:.2f} goles por partido")
+        
         # Recomendaciones
         st.markdown("## 🎯 Recomendaciones de Apuestas")
         recommendations = analysis['hybrid_recommendations']
@@ -123,13 +234,27 @@ def show_match_analysis(home_team, away_team):
                     "low": "low-confidence"
                 }.get(rec['confidence'], "medium-confidence")
                 
+                # Generar explicación detallada
+                if rec['explanation'] == f"Según análisis probabilístico ({rec['probability']:.1%})":
+                    detailed_explanation = generate_detailed_explanation(
+                        bet_type, rec, home_team, away_team, home_fact, away_fact, analysis
+                    )
+                else:
+                    detailed_explanation = rec['explanation']
+                
                 # Crear caja de recomendación con estilo
+                rules_html = ""
+                if 'rules_fired' in rec and rec['rules_fired']:
+                    rules_text = ", ".join(rec['rules_fired'])
+                    rules_html = f'<div class="rules-fired">Reglas activadas: {rules_text}</div>'
+                
                 st.markdown(f"""
                 <div class="recommendation-box {confidence_class}">
                     <h3>{bet_name}</h3>
                     <p><strong>Confianza:</strong> {rec['confidence'].upper()}</p>
                     <p><strong>Probabilidad:</strong> {rec['probability']:.1%}</p>
-                    <p><strong>Justificación:</strong> {rec['explanation']}</p>
+                    <p><strong>Justificación:</strong> {detailed_explanation}</p>
+                    {rules_html}
                 </div>
                 """, unsafe_allow_html=True)
         else:
@@ -148,16 +273,11 @@ def show_match_analysis(home_team, away_team):
                 st.markdown(f"- Marca: {away_fact['goals_per_match']:.2f} por partido")
                 st.markdown(f"- Recibe: {away_fact['goals_conceded_per_match']:.2f} por partido")
             
-            combined = home_fact['goals_per_match'] + away_fact['goals_per_match']
-            st.markdown(f"**Promedio combinado:** {combined:.2f} goles por partido")
-            
-            # Mostrar reglas que se activaron
-            st.markdown("### 🧠 Reglas activadas")
+            # Mostrar reglas que se activaron (solo si hay reglas)
             if 'rules_summary' in analysis and analysis['rules_summary']:
+                st.markdown("### 🧠 Reglas activadas")
                 for rule, count in analysis['rules_summary'].items():
                     st.markdown(f"- **{rule}**: {count} veces")
-            else:
-                st.info("No hay información sobre reglas activadas.")
 
 # Función para mostrar estadísticas de equipo
 def show_team_stats(team):
@@ -295,11 +415,11 @@ def main():
         with col1:
             if st.button("🔍 Ir a Análisis de Partidos"):
                 st.session_state.menu_selection = "Análisis de Partidos"
-                st.rerun()  # Versión moderna de st.experimental_rerun()
+                st.rerun()
         with col2:
             if st.button("📊 Ver Estadísticas de Equipos"):
                 st.session_state.menu_selection = "Estadísticas de Equipos"
-                st.rerun()  # Versión moderna de st.experimental_rerun()
+                st.rerun()
     
     # Análisis de partidos
     elif st.session_state.menu_selection == "Análisis de Partidos":
